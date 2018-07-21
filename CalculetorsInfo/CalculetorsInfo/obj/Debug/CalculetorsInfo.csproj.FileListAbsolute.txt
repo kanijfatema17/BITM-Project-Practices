@@ -1,0 +1,9 @@
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\bin\Debug\CalculetorsInfo.exe.config
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.csprojResolveAssemblyReference.cache
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.CalculaterUi.resources
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.Properties.Resources.resources
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.csproj.GenerateResource.Cache
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\bin\Debug\CalculetorsInfo.exe
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\bin\Debug\CalculetorsInfo.pdb
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.exe
+G:\Asp.net\CalculetorsInfo\CalculetorsInfo\obj\Debug\CalculetorsInfo.pdb
